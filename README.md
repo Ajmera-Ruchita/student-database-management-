@@ -1,4 +1,4 @@
-# student-database-management
+# student-database-management system
 This is our python project of Student Data Base Management System made using Python and SQL. In this student database management system we can add, delete,update,view and clear existing records from the database. Here Student ID acts as the PRIMARY KEY and we store Student name,email,gender, contact,DOB & address.
 Here are some of the screenshots of the frontend:
 ![image](https://user-images.githubusercontent.com/106156362/183647168-ef816774-949f-4f34-b9f6-1d6f102c0dbe.png)
